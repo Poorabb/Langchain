@@ -14,7 +14,7 @@ style_input = st.selectbox( "Select Explanation Style", ["Beginner-Friendly", "T
 
 length_input = st.selectbox( "Select Explanation Length", ["Short (1-2 paragraphs)", "Medium (3-5 paragraphs)", "Long (detailed explanation)"] )
 
-template = load_prompt('template.json')
+template = load_prompt('C:\\Users\\poora\\Desktop\\work\\Langchain\\2_LANGCHAIN_PROMPTS\\template.json')
 
 
 
